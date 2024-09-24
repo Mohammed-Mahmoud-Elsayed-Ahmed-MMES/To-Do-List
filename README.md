@@ -41,7 +41,7 @@ ToDoList/ ├── crud/ │ ├── models.py │ ├── serializers.py �
 - Django REST Framework
 
 ### Setup Instructions
-**Note:** After creating the virtual environment, please place this repository folder within the virtual environment folder. It is advisable to name the virtual environment folder "env," as I have done, to minimize the need for extensive edits. Additionally, please rename the repository folder to "ToDoList."
+**Note:** After creating the virtual environment, please place this repository folder within the virtual environment folder. It is advisable to name the virtual environment folder "env," as I have done, to minimize the need for extensive edits.
 1. Clone the repository:
     ```bash
     git clone https://github.com/yourusername/todo-list.git
