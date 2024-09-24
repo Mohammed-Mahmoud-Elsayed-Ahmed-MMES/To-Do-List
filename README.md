@@ -44,7 +44,7 @@ ToDoList/ ├── crud/ │ ├── models.py │ ├── serializers.py �
 **Note:** After creating the virtual environment, please place this repository folder within the virtual environment folder. It is advisable to name the virtual environment folder "env," as I have done, to minimize the need for extensive edits.Additionally you have to run a command 'python manage.py collectstatic' in the terminal.
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/todo-list.git
+    git clone [https://github.com/yourusername/todo-list.git](https://github.com/Mohammed-Mahmoud-Elsayed-Ahmed-MMES/ToDoList.git)
     cd todo-list
     ```
 2. Create and activate a virtual environment:
